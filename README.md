@@ -48,7 +48,7 @@ Blue Moon Gym is Kalewadi's leading fitness center offering:
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/blue-moon-gym)
+[View Live Demo](https://sahil454521.github.io/blue-moon-gym)
 
 ## 💻 Development
 
@@ -60,7 +60,7 @@ Blue Moon Gym is Kalewadi's leading fitness center offering:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/blue-moon-gym.git
+git clone https://github.com/sahil454521/blue-moon-gym.git
 cd blue-moon-gym
 ```
 
@@ -190,8 +190,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 For questions about this website prototype, please contact:
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **Project**: [Blue Moon Gym Repository](https://github.com/your-username/blue-moon-gym)
+- **GitHub**: [Sahil's GitHub Profile](https://github.com/sahil454521)
+- **Project**: [Blue Moon Gym Repository](https://github.com/sahil454521/blue-moon-gym)
 
 ---
 
